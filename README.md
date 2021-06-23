@@ -8,6 +8,6 @@ possam ser parametrizados por seu tipo.
 
 - Uso comum: coleções
 
-List<String> list = new ArrayList<>();
-list.add("Maria");
-String name = list.get(0);
+List<String> list = new ArrayList<>();  
+list.add("Maria");  
+String name = list.get(0);  
